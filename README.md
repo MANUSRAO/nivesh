@@ -14,3 +14,17 @@ PPT Link: [Click Here](https://drive.google.com/file/d/12krxfGX0Hvs-FMbfUTBc4Be0
 * Change the network from `Ethereum Mainnet` to `Ropsten Test Network`
 * That's it, you're good to go!
 * Happy Investing!
+
+## To Build:
+* Clone this github repository.
+* Go to the cloned folder and open your terminal.
+* Run the following commands
+### Install Dependencies
+```bash
+npm install
+```
+
+### Run Dev Server
+```bash
+npm run dev
+```
