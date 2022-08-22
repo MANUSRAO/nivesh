@@ -1,7 +1,9 @@
 # nivesh
+<img src="https://user-images.githubusercontent.com/67941652/185938188-8eed4ab8-74a3-4f5e-92ca-412b7ddd5b64.png" height="400">
 * This is your one stop destination for your curated real estate investments.
 * We use Ethereum blockchain to tokenize assets and help retail investors invest in real estate with small capital.
 * We only list government verified assests to protect our investors.
+
 
 Deployed link: [Click Here](https://nivesh.netlify.app/)
 
