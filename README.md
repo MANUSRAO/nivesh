@@ -31,3 +31,6 @@ npm install
 ```bash
 npm run dev
 ```
+
+## NOTE (Added after 7.30pm)
+* If you are facing issues in transacting through our website, please watch this video for detailed steps: [Link](https://drive.google.com/file/d/1a9PI-puO7CS1PUVcC32v16vGgXNmNQYI/view?usp=sharing)
