@@ -54,6 +54,7 @@ const Portfolio =  ()=>{
   
     return (  <>
     <div className="row">
+            {share1==0 && share2==0 && share3==0?<h1 style={{textAlign:"center"}}>No investments done</h1>:<></>}
     {share1>0?<div className="col-sm-12 col-md-6 col-lg-6">
         <div className="card">
             <div className="card-body">
