@@ -5,9 +5,9 @@
 
 Deployed link: [Click Here](https://nivesh.netlify.app/)
 
-Video: [Click Here]()
+Video: [Click Here](https://drive.google.com/file/d/1oKiSCzbNzuYigRr4E0wCmod9oLCPzv8F/view)
 
-PPT Link: [Click Here]()
+PPT Link: [Click Here](https://drive.google.com/file/d/12krxfGX0Hvs-FMbfUTBc4Be0gFgac4f9/view?usp=sharing)
 
 ## To invest
 * Please install metamask wallet in your browser first.
